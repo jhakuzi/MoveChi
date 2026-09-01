@@ -1,7 +1,6 @@
 ## Interface: 120100
 ## Title: MoveChi
-## Notes: Drag the default class resource bar (Chi, combo points, Holy Power, shards, runes, essence) off the player frame.
-## Author: jhaku
+## Notes: Drag the default class resource bar (chi, combo points, holy power, shards, runes, essence) off the player frame.
 ## Version: 1.0.0
 ## SavedVariablesPerCharacter: MoveChiDB
 
