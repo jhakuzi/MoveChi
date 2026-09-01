@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: MoveChi
+## Notes: Drag the default class resource bar (Chi, combo points, Holy Power, shards, runes, essence) off the player frame.
+## Author: jhaku
+## Version: 1.0.0
+## SavedVariablesPerCharacter: MoveChiDB
+
+MoveChi.lua
