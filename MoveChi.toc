@@ -3,6 +3,7 @@
 ## Notes: Drag the default class resource bar (chi, combo points, holy power, shards, runes, essence) off the player frame.
 ## Version: 1.0.0
 ## Author: Jhaku
+## IconTexture: Interface\AddOns\MoveChi\media\logo
 ## SavedVariablesPerCharacter: MoveChiDB
 
 MoveChi.lua
